@@ -1,0 +1,15 @@
+# ============================================================
+# GreenTech Infrastructure - Environment Config
+# File an (.env) chua cau hinh gia dinh (DEMO ONLY - NOT REAL)
+# Module 1: Tao bang Relative Path, file an
+# ============================================================
+DB_HOST=localhost
+DB_PORT=5432
+DB_USER=greentech_admin
+DB_PASS=FakeP@ssw0rd_2024!
+API_SECRET=sk-live-fake-9f8e7d6c5b4a3f2e
+LOG_LEVEL=INFO
+BACKUP_PATH=./backup
+IOT_MQTT_BROKER=mqtt.greentech-farm.local
+IOT_MQTT_PORT=1883
+SENSOR_COUNT=100

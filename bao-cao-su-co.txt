@@ -1,0 +1,28 @@
+============================================================
+  BAO CAO SU CO HE THONG - GreenTech IoT Farm
+  Ngay tao: Wed Oct 28 08:39:33 PM +07 2026
+============================================================
+
+[I] Cac dong CRITICAL:
+------------------------------------------------------------
+2026-10-28 08:05:00 [CRITICAL] CPU trung tam qua nhiet: 92C - can kiem tra lam moi
+2026-10-28 08:07:02 [CRITICAL] Mat ket noi mang LAN - switch chinh sap do
+2026-10-28 09:00:47 [CRITICAL] Dung luong pin tram TRAM-060 duoi 5% - se tat trong 10 phut
+2026-10-28 09:04:00 [CRITICAL] O dia SSD chinh bao loi sector - can thay the gap
+
+[II] Cac dong ERROR:
+------------------------------------------------------------
+2026-10-28 08:02:10 [ERROR] ERROR 404 - Khong tim thay endpoint /api/sensor/TRAM-099
+2026-10-28 08:03:12 [ERROR] TIMEOUT - Tram TRAM-047 khong phan hoi trong vong 30s
+2026-10-28 08:05:44 [ERROR] ERROR 404 - Tai nguyen /firmware/v2.1.bin khong ton tai
+2026-10-28 08:07:35 [ERROR] TIMEOUT - Truy van database vuot nguong 5000ms
+2026-10-28 09:00:03 [ERROR] ERROR 404 - Tram TRAM-100 chua duoc dang ky trong he thong
+2026-10-28 09:02:05 [ERROR] TIMEOUT - Gateway tra loi cham hon 10s
+2026-10-28 09:04:48 [ERROR] ERROR 404 - API /api/v1/report/export tra ve khong tim thay
+2026-10-28 09:06:45 [ERROR] TIMEOUT - Tram TRAM-078 ngat ket noi 45s
+
+---------- TONG KET SO LUONG SU CO ----------
+So dong CRITICAL : 4
+So dong ERROR    : 8
+============================================================
+

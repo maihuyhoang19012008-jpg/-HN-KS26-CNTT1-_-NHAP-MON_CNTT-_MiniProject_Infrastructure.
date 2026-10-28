@@ -1,0 +1,28 @@
+2026-10-28 08:00:01 [INFO] He thong khoi dong thanh cong - GreenTech IoT Farm
+2026-10-28 08:00:15 [INFO] Ket noi MQTT broker thanh cong tai mqtt.greentech-farm.local:1883
+2026-10-28 08:01:02 [INFO] Tram cam bien TRAM-001 gui du lieu nhiet do: 28.5C
+2026-10-28 08:01:45 [WARNING] Tram TRAM-023 do am dat nguong canh bao: 92%
+2026-10-28 08:02:10 [ERROR] ERROR 404 - Khong tim thay endpoint /api/sensor/TRAM-099
+2026-10-28 08:02:33 [INFO] Tram TRAM-005 gui du lieu dat: pH=6.8
+2026-10-28 08:03:12 [ERROR] TIMEOUT - Tram TRAM-047 khong phan hoi trong vong 30s
+2026-10-28 08:03:50 [WARNING] Dung luong o dia con lai duoi 15%
+2026-10-28 08:04:21 [INFO] Backup tu dong hoan tat: backup_20261028_0804.tar.gz
+2026-10-28 08:05:00 [CRITICAL] CPU trung tam qua nhiet: 92C - can kiem tra lam moi
+2026-10-28 08:05:44 [ERROR] ERROR 404 - Tai nguyen /firmware/v2.1.bin khong ton tai
+2026-10-28 08:06:18 [INFO] Tram TRAM-012 cap nhat firmware thanh cong
+2026-10-28 08:07:02 [CRITICAL] Mat ket noi mang LAN - switch chinh sap do
+2026-10-28 08:07:35 [ERROR] TIMEOUT - Truy van database vuot nguong 5000ms
+2026-10-28 08:08:10 [WARNING] Ram dung luong dat 85%
+2026-10-28 08:08:55 [INFO] Nguoi dung admin dang nhap thanh cong
+2026-10-28 09:00:03 [ERROR] ERROR 404 - Tram TRAM-100 chua duoc dang ky trong he thong
+2026-10-28 09:00:47 [CRITICAL] Dung luong pin tram TRAM-060 duoi 5% - se tat trong 10 phut
+2026-10-28 09:01:20 [INFO] Tu dong khoi dong lai dich vu sensor-collector
+2026-10-28 09:02:05 [ERROR] TIMEOUT - Gateway tra loi cham hon 10s
+2026-10-28 09:02:40 [WARNING] So luong goi tin mat moi tang: 2.3%
+2026-10-28 09:03:15 [INFO] Gui bao cao ngay cho quan tri vien
+2026-10-28 09:04:00 [CRITICAL] O dia SSD chinh bao loi sector - can thay the gap
+2026-10-28 09:04:48 [ERROR] ERROR 404 - API /api/v1/report/export tra ve khong tim thay
+2026-10-28 09:05:22 [INFO] He thong on dinh tro lai sau khi khoi dong lai switch
+2026-10-28 09:06:00 [WARNING] Bam do am dat TRAM-033 lech so voi trung binh
+2026-10-28 09:06:45 [ERROR] TIMEOUT - Tram TRAM-078 ngat ket noi 45s
+2026-10-28 09:07:20 [INFO] Dong bo du lieu len cloud hoan tat (12.4 MB)
